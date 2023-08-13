@@ -18,13 +18,22 @@
   },
   "metro": [
     {
-      "nombre": "b",
-      "sector": "b",
-      "salida": "b",
-      "llegada": "b",
-      "maquinista": "b",
-      "detalles": "b",
-      "id": "0049b618-3465-4eb9-86c1-b30556657a99"
+      "nombre": "Valle ruta 3",
+      "sector": "Valle",
+      "salida": "Estación playón de la marin",
+      "llegada": "Conocoto",
+      "maquinista": "Jared Valenzuela",
+      "detalles": "La ruta va por el antiguo camino a Conocoto",
+      "id": "fc8b9012-6f05-4841-a6f1-d96ba038e76c"
+    },
+    {
+      "nombre": "Quito ruta 16",
+      "sector": "Sur-norte",
+      "salida": "Quitumbe",
+      "llegada": "Carolina",
+      "maquinista": "Byron",
+      "detalles": "La ruta esta en avería",
+      "id": "43dca39f-3d45-464d-9388-f2203ccd6930"
     }
   ]
 }
